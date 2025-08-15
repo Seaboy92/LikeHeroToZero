@@ -1,0 +1,13 @@
+de\likeherotozero\dao\NeueDatenDAO.class
+de\likeherotozero\model\Co2Daten.class
+de\likeherotozero\dao\Co2DatenDAO.class
+de\likeherotozero\model\NeueDaten.class
+de\likeherotozero\beans\NeueDatenBean.class
+de\likeherotozero\beans\Co2DatenBean.class
+de\likeherotozero\service\NavigationController.class
+de\likeherotozero\service\LoginController.class
+de\likeherotozero\beans\BenutzerBean.class
+de\likeherotozero\model\Laender.class
+de\likeherotozero\dao\LaenderDAO.class
+de\likeherotozero\dao\BenutzerDAO.class
+de\likeherotozero\model\Benutzer.class
