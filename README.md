@@ -26,7 +26,11 @@ Getestet unter Apache Tomcat 10.1.23.
 ---
 
 ## Installation & Ausführung
+## 1. Datenbank
+Im Ordner `database` befinden sich die SQL-Dumps (exportiert mit phpMyAdmin), welche die Tabellenstrukturen und Beispieldaten für alle Tabellen in der Datenbank `likeherotozero` enthalten.
+Nach der Vorbereitung der Datenbank kann die Webanwendung gestartet werden.
 
+## 2. Webanwendung
 1. Repository klonen:
    ```bash
    git clone https://github.com/Seaboy92/LikeHeroToZero
